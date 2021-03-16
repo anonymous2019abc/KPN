@@ -29,7 +29,7 @@ You can change the relative path "../../data_model/" in util/config.py: config.d
 
 
 # Run
-You can get the model weight at [model](https://drive.google.com/). And unzip them in current path.
+You can get the model weight at [model](https://drive.google.com/file/d/1WvJUTggqYXBkKtu3vSvIJQ_A7b7ZYER9/view?usp=sharing). And unzip them in current path.
 
 You can run the code by:
 ```
